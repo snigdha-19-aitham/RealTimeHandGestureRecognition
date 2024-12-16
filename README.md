@@ -21,16 +21,17 @@ pip install opencv-python mediapipe numpy
 ## Usage
 
 1) Clone the repository:
-git clone https://github.com/yourusername/HandGestureControl.git cd HandGestureControl
+git clone https://github.com/yourusername/HandGestureControl.git
+cd HandGestureControl
 
 
 
-2) Run the script:
+3) Run the script:
 python hand_gesture_control.py
 
 
 
-3) Perform gestures:
+4) Perform gestures:
 - Forward: Point index finger straight.
 - Backward: Point index finger down.
 - Left: Point index finger left.
