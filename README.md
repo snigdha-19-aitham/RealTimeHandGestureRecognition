@@ -13,27 +13,19 @@ A real-time hand gesture recognition system using MediaPipe and OpenCV. This pro
 - `mediapipe`
 - `numpy`
 
-To install dependencies:
-```bash
+To install dependencies
 pip install opencv-python mediapipe numpy
 
-Usage
-Clone the repository:
-
-bash
-Copy code
+## Usage
+1)Clone the repository:
 git clone https://github.com/yourusername/HandGestureControl.git
 cd HandGestureControl
-Run the script:
-
-bash
-Copy code
+2)Run the script:
 python hand_gesture_control.py
-Perform gestures:
-
-Forward: Point index finger straight.
-Backward: Point index finger down.
-Left: Point index finger left.
-Right: Point index finger right.
-Jump: Point index finger up.
-Press 'q' to exit.
+3)Perform gestures:
+-Forward: Point index finger straight.
+-Backward: Point index finger down.
+-Left: Point index finger left.
+-Right: Point index finger right.
+-Jump: Point index finger up.
+-Press 'q' to exit.
